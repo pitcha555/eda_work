@@ -1,0 +1,1225 @@
+Geography,year,Life Expectancy at Birth
+Asia Pacific,2016,72.7
+Afghanistan,2016,63.8
+Armenia,2016,75.0
+Azerbaijan,2016,75.2
+Bangladesh,2016,71.8
+Bhutan,2016,70.8
+Brunei Darussalam,2016,75.5
+Cambodia,2016,69.0
+China,2016,76.2
+Fiji,2016,67.2
+French Polynesia,2016,77.0
+Guam,2016,79.4
+"Hong Kong, China",2016,84.2
+India,2016,68.9
+Indonesia,2016,71.0
+Japan,2016,84.0
+Kazakhstan,2016,72.4
+Kiribati,2016,67.6
+Kyrgyzstan,2016,71.0
+Laos,2016,66.9
+"Macau, China",2016,83.9
+Malaysia,2016,75.6
+Maldives,2016,78.0
+Mongolia,2016,69.3
+Myanmar,2016,66.2
+Nepal,2016,69.8
+New Caledonia,2016,77.0
+North Korea,2016,71.7
+Pakistan,2016,66.8
+Papua New Guinea,2016,63.7
+Philippines,2016,70.8
+Samoa,2016,72.9
+Singapore,2016,82.8
+Solomon Islands,2016,72.4
+South Korea,2016,82.3
+Sri Lanka,2016,76.5
+Taiwan,2016,80.1
+Tajikistan,2016,70.4
+Thailand,2016,76.4
+Tonga,2016,70.6
+Turkmenistan,2016,67.8
+Uzbekistan,2016,71.2
+Vanuatu,2016,70.0
+Vietnam,2016,75.2
+Australasia,2016,82.3
+Australia,2016,82.4
+New Zealand,2016,81.6
+Eastern Europe,2016,73.8
+Albania,2016,78.5
+Belarus,2016,73.8
+Bosnia and Herzegovina,2016,77.0
+Bulgaria,2016,74.9
+Croatia,2016,78.2
+Czech Republic,2016,79.1
+Estonia,2016,78.0
+Georgia,2016,73.2
+Hungary,2016,76.2
+Kosovo,2016,71.6
+Latvia,2016,74.9
+Lithuania,2016,74.9
+Moldova,2016,69.8
+Montenegro,2016,76.6
+North Macedonia,2016,75.4
+Poland,2016,78.0
+Romania,2016,75.2
+Russia,2016,71.9
+Serbia,2016,75.7
+Slovakia,2016,77.3
+Slovenia,2016,81.2
+Ukraine,2016,71.7
+Latin America,2016,75.1
+Antigua and Barbuda,2016,76.6
+Argentina,2016,76.2
+Aruba,2016,75.9
+Bahamas,2016,73.3
+Barbados,2016,78.9
+Belize,2016,74.2
+Bolivia,2016,70.6
+Brazil,2016,75.2
+Chile,2016,79.8
+Colombia,2016,76.7
+Costa Rica,2016,79.7
+Cuba,2016,78.6
+Curacao,2016,78.4
+Dominican Republic,2016,73.5
+Ecuador,2016,76.4
+El Salvador,2016,72.6
+French Guiana,2016,79.6
+Grenada,2016,72.4
+Guadeloupe,2016,81.5
+Guatemala,2016,73.5
+Guyana,2016,69.5
+Haiti,2016,62.9
+Honduras,2016,74.7
+Jamaica,2016,74.2
+Martinique,2016,82.0
+Mexico,2016,74.9
+Nicaragua,2016,73.9
+Panama,2016,78.0
+Paraguay,2016,73.8
+Peru,2016,76.0
+Puerto Rico,2016,79.7
+St Lucia,2016,75.8
+St Vincent and the Grenadines,2016,72.2
+Suriname,2016,71.4
+Trinidad and Tobago,2016,73.1
+Uruguay,2016,77.5
+US Virgin Islands,2016,80.1
+Venezuela,2016,72.4
+Middle East and Africa,2016,64.4
+Algeria,2016,76.3
+Angola,2016,59.9
+Bahrain,2016,76.9
+Benin,2016,60.9
+Botswana,2016,68.2
+Burkina Faso,2016,60.4
+Burundi,2016,60.5
+Cabo Verde,2016,72.3
+Cameroon,2016,58.1
+Central African Republic,2016,51.6
+Chad,2016,53.4
+Comoros,2016,63.7
+"Congo, Democratic Republic",2016,59.7
+Congo-Brazzaville,2016,63.6
+Côte d'Ivoire,2016,56.6
+Djibouti,2016,65.1
+Egypt,2016,71.5
+Equatorial Guinea,2016,57.7
+Eritrea,2016,65.1
+Eswatini,2016,57.0
+Ethiopia,2016,65.5
+Gabon,2016,65.4
+Gambia,2016,61.2
+Ghana,2016,63.1
+Guinea,2016,60.2
+Guinea-Bissau,2016,57.3
+Iran,2016,76.0
+Iraq,2016,70.1
+Israel,2016,82.4
+Jordan,2016,74.2
+Kenya,2016,65.4
+Kuwait,2016,75.2
+Lebanon,2016,78.8
+Lesotho,2016,52.1
+Liberia,2016,62.8
+Libya,2016,72.3
+Madagascar,2016,65.9
+Malawi,2016,62.7
+Mali,2016,58.0
+Mauritania,2016,64.2
+Mauritius,2016,74.6
+Morocco,2016,76.0
+Mozambique,2016,58.3
+Namibia,2016,62.6
+Niger,2016,61.1
+Nigeria,2016,53.5
+Oman,2016,77.1
+Qatar,2016,79.9
+Réunion,2016,79.9
+Rwanda,2016,67.9
+Sao Tomé e Príncipe,2016,69.7
+Saudi Arabia,2016,74.8
+Senegal,2016,67.1
+Seychelles,2016,73.2
+Sierra Leone,2016,53.4
+Somalia,2016,56.3
+South Africa,2016,63.2
+South Sudan,2016,57.1
+Sudan,2016,64.7
+Syria,2016,70.3
+Tanzania,2016,63.8
+Togo,2016,60.2
+Tunisia,2016,76.1
+Uganda,2016,62.0
+United Arab Emirates,2016,77.5
+Yemen,2016,66.1
+Zambia,2016,62.5
+Zimbabwe,2016,60.3
+North America,2016,78.9
+Canada,2016,81.9
+USA,2016,78.5
+Western Europe,2016,81.5
+Austria,2016,81.8
+Belgium,2016,81.5
+Cyprus,2016,82.7
+Denmark,2016,80.9
+Finland,2016,81.5
+France,2016,82.7
+Germany,2016,81.0
+Greece,2016,81.5
+Iceland,2016,82.2
+Ireland,2016,81.7
+Italy,2016,83.4
+Liechtenstein,2016,82.3
+Luxembourg,2016,82.7
+Malta,2016,82.6
+Netherlands,2016,81.7
+Norway,2016,82.5
+Portugal,2016,81.3
+Spain,2016,83.5
+Sweden,2016,82.4
+Switzerland,2016,83.7
+Turkey,2016,78.1
+United Kingdom,2016,81.2
+Asia Pacific,2017,72.9
+Afghanistan,2017,64.1
+Armenia,2017,75.4
+Azerbaijan,2017,75.4
+Bangladesh,2017,72.1
+Bhutan,2017,71.1
+Brunei Darussalam,2017,75.6
+Cambodia,2017,69.3
+China,2017,76.5
+Fiji,2017,67.3
+French Polynesia,2017,77.3
+Guam,2017,79.6
+"Hong Kong, China",2017,84.7
+India,2017,69.2
+Indonesia,2017,71.3
+Japan,2017,84.1
+Kazakhstan,2017,73.0
+Kiribati,2017,67.9
+Kyrgyzstan,2017,71.2
+Laos,2017,67.3
+"Macau, China",2017,84.0
+Malaysia,2017,75.8
+Maldives,2017,78.3
+Mongolia,2017,69.5
+Myanmar,2017,66.6
+Nepal,2017,70.2
+New Caledonia,2017,77.2
+North Korea,2017,71.9
+Pakistan,2017,66.9
+Papua New Guinea,2017,64.0
+Philippines,2017,71.0
+Samoa,2017,73.0
+Singapore,2017,83.1
+Solomon Islands,2017,72.6
+South Korea,2017,82.6
+Sri Lanka,2017,76.6
+Taiwan,2017,80.5
+Tajikistan,2017,70.6
+Thailand,2017,76.7
+Tonga,2017,70.7
+Turkmenistan,2017,68.0
+Uzbekistan,2017,71.4
+Vanuatu,2017,70.2
+Vietnam,2017,75.2
+Australasia,2017,82.4
+Australia,2017,82.5
+New Zealand,2017,81.7
+Eastern Europe,2017,74.2
+Albania,2017,78.6
+Belarus,2017,74.1
+Bosnia and Herzegovina,2017,77.1
+Bulgaria,2017,74.8
+Croatia,2017,78.0
+Czech Republic,2017,79.1
+Estonia,2017,78.4
+Georgia,2017,73.4
+Hungary,2017,76.0
+Kosovo,2017,71.9
+Latvia,2017,74.9
+Lithuania,2017,75.8
+Moldova,2017,70.8
+Montenegro,2017,76.7
+North Macedonia,2017,76.0
+Poland,2017,77.8
+Romania,2017,75.2
+Russia,2017,72.7
+Serbia,2017,75.6
+Slovakia,2017,77.3
+Slovenia,2017,81.2
+Ukraine,2017,71.8
+Latin America,2017,75.3
+Antigua and Barbuda,2017,76.8
+Argentina,2017,76.4
+Aruba,2017,76.0
+Bahamas,2017,73.6
+Barbados,2017,79.0
+Belize,2017,74.4
+Bolivia,2017,70.9
+Brazil,2017,75.5
+Chile,2017,79.9
+Colombia,2017,76.9
+Costa Rica,2017,79.9
+Cuba,2017,78.7
+Curacao,2017,78.6
+Dominican Republic,2017,73.7
+Ecuador,2017,76.6
+El Salvador,2017,72.9
+French Guiana,2017,79.7
+Grenada,2017,72.4
+Guadeloupe,2017,81.7
+Guatemala,2017,73.8
+Guyana,2017,69.6
+Haiti,2017,63.3
+Honduras,2017,74.9
+Jamaica,2017,74.3
+Martinique,2017,82.2
+Mexico,2017,74.9
+Nicaragua,2017,74.1
+Panama,2017,78.1
+Paraguay,2017,74.0
+Peru,2017,76.3
+Puerto Rico,2017,79.8
+St Lucia,2017,75.9
+St Vincent and the Grenadines,2017,72.3
+Suriname,2017,71.5
+Trinidad and Tobago,2017,73.2
+Uruguay,2017,77.6
+US Virgin Islands,2017,80.3
+Venezuela,2017,72.2
+Middle East and Africa,2017,64.7
+Algeria,2017,76.5
+Angola,2017,60.4
+Bahrain,2017,77.0
+Benin,2017,61.2
+Botswana,2017,68.8
+Burkina Faso,2017,60.8
+Burundi,2017,60.9
+Cabo Verde,2017,72.6
+Cameroon,2017,58.5
+Central African Republic,2017,52.2
+Chad,2017,53.7
+Comoros,2017,63.9
+"Congo, Democratic Republic",2017,60.0
+Congo-Brazzaville,2017,64.0
+Côte d'Ivoire,2017,57.0
+Djibouti,2017,65.9
+Egypt,2017,71.7
+Equatorial Guinea,2017,58.1
+Eritrea,2017,65.5
+Eswatini,2017,58.3
+Ethiopia,2017,65.9
+Gabon,2017,65.8
+Gambia,2017,61.4
+Ghana,2017,63.5
+Guinea,2017,60.7
+Guinea-Bissau,2017,57.7
+Iran,2017,76.3
+Iraq,2017,70.3
+Israel,2017,82.6
+Jordan,2017,74.3
+Kenya,2017,65.9
+Kuwait,2017,75.3
+Lebanon,2017,78.8
+Lesotho,2017,52.9
+Liberia,2017,63.3
+Libya,2017,72.5
+Madagascar,2017,66.3
+Malawi,2017,63.3
+Mali,2017,58.5
+Mauritania,2017,64.5
+Mauritius,2017,74.7
+Morocco,2017,76.2
+Mozambique,2017,59.3
+Namibia,2017,63.0
+Niger,2017,61.6
+Nigeria,2017,54.0
+Oman,2017,77.4
+Qatar,2017,80.0
+Réunion,2017,80.1
+Rwanda,2017,68.3
+Sao Tomé e Príncipe,2017,69.9
+Saudi Arabia,2017,74.9
+Senegal,2017,67.4
+Seychelles,2017,73.3
+Sierra Leone,2017,53.9
+Somalia,2017,56.7
+South Africa,2017,63.5
+South Sudan,2017,57.4
+Sudan,2017,64.9
+Syria,2017,71.0
+Tanzania,2017,64.5
+Togo,2017,60.5
+Tunisia,2017,76.3
+Uganda,2017,62.5
+United Arab Emirates,2017,77.6
+Yemen,2017,66.1
+Zambia,2017,63.0
+Zimbabwe,2017,60.8
+North America,2017,78.9
+Canada,2017,81.9
+USA,2017,78.5
+Western Europe,2017,81.5
+Austria,2017,81.7
+Belgium,2017,81.6
+Cyprus,2017,82.2
+Denmark,2017,81.1
+Finland,2017,81.7
+France,2017,82.7
+Germany,2017,81.1
+Greece,2017,81.4
+Iceland,2017,82.6
+Ireland,2017,82.2
+Italy,2017,83.1
+Liechtenstein,2017,83.7
+Luxembourg,2017,82.1
+Malta,2017,82.4
+Netherlands,2017,81.8
+Norway,2017,82.7
+Portugal,2017,81.6
+Spain,2017,83.4
+Sweden,2017,82.5
+Switzerland,2017,83.7
+Turkey,2017,78.5
+United Kingdom,2017,81.3
+Asia Pacific,2018,73.1
+Afghanistan,2018,64.5
+Armenia,2018,75.9
+Azerbaijan,2018,75.8
+Bangladesh,2018,72.3
+Bhutan,2018,71.5
+Brunei Darussalam,2018,75.7
+Cambodia,2018,69.6
+China,2018,76.7
+Fiji,2018,67.3
+French Polynesia,2018,77.5
+Guam,2018,79.9
+"Hong Kong, China",2018,84.9
+India,2018,69.4
+Indonesia,2018,71.5
+Japan,2018,84.2
+Kazakhstan,2018,73.2
+Kiribati,2018,68.1
+Kyrgyzstan,2018,71.4
+Laos,2018,67.6
+"Macau, China",2018,84.1
+Malaysia,2018,76.0
+Maldives,2018,78.6
+Mongolia,2018,69.7
+Myanmar,2018,66.9
+Nepal,2018,70.5
+New Caledonia,2018,77.4
+North Korea,2018,72.1
+Pakistan,2018,67.1
+Papua New Guinea,2018,64.3
+Philippines,2018,71.1
+Samoa,2018,73.2
+Singapore,2018,83.3
+Solomon Islands,2018,72.8
+South Korea,2018,82.6
+Sri Lanka,2018,76.8
+Taiwan,2018,80.8
+Tajikistan,2018,70.9
+Thailand,2018,76.9
+Tonga,2018,70.8
+Turkmenistan,2018,68.1
+Uzbekistan,2018,71.6
+Vanuatu,2018,70.3
+Vietnam,2018,75.3
+Australasia,2018,82.6
+Australia,2018,82.7
+New Zealand,2018,81.9
+Eastern Europe,2018,74.3
+Albania,2018,79.0
+Belarus,2018,74.2
+Bosnia and Herzegovina,2018,77.3
+Bulgaria,2018,75.0
+Croatia,2018,78.2
+Czech Republic,2018,79.1
+Estonia,2018,78.5
+Georgia,2018,73.6
+Hungary,2018,76.2
+Kosovo,2018,72.1
+Latvia,2018,75.1
+Lithuania,2018,76.0
+Moldova,2018,70.6
+Montenegro,2018,77.0
+North Macedonia,2018,76.7
+Poland,2018,77.7
+Romania,2018,75.3
+Russia,2018,72.9
+Serbia,2018,75.9
+Slovakia,2018,77.4
+Slovenia,2018,81.5
+Ukraine,2018,72.0
+Latin America,2018,75.5
+Antigua and Barbuda,2018,76.9
+Argentina,2018,76.5
+Aruba,2018,76.2
+Bahamas,2018,73.8
+Barbados,2018,79.1
+Belize,2018,74.5
+Bolivia,2018,71.2
+Brazil,2018,75.7
+Chile,2018,80.0
+Colombia,2018,77.1
+Costa Rica,2018,80.1
+Cuba,2018,78.7
+Curacao,2018,78.7
+Dominican Republic,2018,73.9
+Ecuador,2018,76.8
+El Salvador,2018,73.1
+French Guiana,2018,79.8
+Grenada,2018,72.4
+Guadeloupe,2018,81.9
+Guatemala,2018,74.1
+Guyana,2018,69.8
+Haiti,2018,63.7
+Honduras,2018,75.1
+Jamaica,2018,74.4
+Martinique,2018,82.4
+Mexico,2018,75.0
+Nicaragua,2018,74.3
+Panama,2018,78.3
+Paraguay,2018,74.1
+Peru,2018,76.5
+Puerto Rico,2018,80.0
+St Lucia,2018,76.1
+St Vincent and the Grenadines,2018,72.4
+Suriname,2018,71.6
+Trinidad and Tobago,2018,73.4
+Uruguay,2018,77.8
+US Virgin Islands,2018,80.4
+Venezuela,2018,72.1
+Middle East and Africa,2018,65.0
+Algeria,2018,76.7
+Angola,2018,60.8
+Bahrain,2018,77.2
+Benin,2018,61.5
+Botswana,2018,69.3
+Burkina Faso,2018,61.2
+Burundi,2018,61.2
+Cabo Verde,2018,72.8
+Cameroon,2018,58.9
+Central African Republic,2018,52.8
+Chad,2018,54.0
+Comoros,2018,64.1
+"Congo, Democratic Republic",2018,60.4
+Congo-Brazzaville,2018,64.3
+Côte d'Ivoire,2018,57.4
+Djibouti,2018,66.6
+Egypt,2018,71.8
+Equatorial Guinea,2018,58.4
+Eritrea,2018,65.9
+Eswatini,2018,59.4
+Ethiopia,2018,66.2
+Gabon,2018,66.2
+Gambia,2018,61.7
+Ghana,2018,63.8
+Guinea,2018,61.2
+Guinea-Bissau,2018,58.0
+Iran,2018,76.5
+Iraq,2018,70.5
+Israel,2018,82.8
+Jordan,2018,74.4
+Kenya,2018,66.3
+Kuwait,2018,75.4
+Lebanon,2018,78.9
+Lesotho,2018,53.7
+Liberia,2018,63.7
+Libya,2018,72.7
+Madagascar,2018,66.7
+Malawi,2018,63.8
+Mali,2018,58.9
+Mauritania,2018,64.7
+Mauritius,2018,74.9
+Morocco,2018,76.5
+Mozambique,2018,60.2
+Namibia,2018,63.4
+Niger,2018,62.0
+Nigeria,2018,54.3
+Oman,2018,77.6
+Qatar,2018,80.1
+Réunion,2018,80.2
+Rwanda,2018,68.7
+Sao Tomé e Príncipe,2018,70.2
+Saudi Arabia,2018,75.0
+Senegal,2018,67.7
+Seychelles,2018,73.3
+Sierra Leone,2018,54.3
+Somalia,2018,57.1
+South Africa,2018,63.9
+South Sudan,2018,57.6
+Sudan,2018,65.1
+Syria,2018,71.8
+Tanzania,2018,65.0
+Togo,2018,60.8
+Tunisia,2018,76.5
+Uganda,2018,63.0
+United Arab Emirates,2018,77.8
+Yemen,2018,66.1
+Zambia,2018,63.5
+Zimbabwe,2018,61.2
+North America,2018,79.0
+Canada,2018,82.0
+USA,2018,78.6
+Western Europe,2018,81.7
+Austria,2018,81.8
+Belgium,2018,81.7
+Cyprus,2018,82.9
+Denmark,2018,81.0
+Finland,2018,81.8
+France,2018,82.8
+Germany,2018,81.0
+Greece,2018,81.9
+Iceland,2018,82.9
+Ireland,2018,82.2
+Italy,2018,83.4
+Liechtenstein,2018,83.1
+Luxembourg,2018,82.3
+Malta,2018,82.5
+Netherlands,2018,81.9
+Norway,2018,82.8
+Portugal,2018,81.5
+Spain,2018,83.5
+Sweden,2018,82.6
+Switzerland,2018,83.8
+Turkey,2018,78.9
+United Kingdom,2018,81.3
+Asia Pacific,2019,73.3
+Afghanistan,2019,64.8
+Armenia,2019,76.5
+Azerbaijan,2019,76.4
+Bangladesh,2019,72.6
+Bhutan,2019,71.8
+Brunei Darussalam,2019,75.9
+Cambodia,2019,69.8
+China,2019,76.9
+Fiji,2019,67.4
+French Polynesia,2019,77.7
+Guam,2019,80.1
+"Hong Kong, China",2019,85.1
+India,2019,69.7
+Indonesia,2019,71.7
+Japan,2019,84.4
+Kazakhstan,2019,73.2
+Kiribati,2019,68.4
+Kyrgyzstan,2019,71.6
+Laos,2019,67.9
+"Macau, China",2019,84.2
+Malaysia,2019,76.2
+Maldives,2019,78.9
+Mongolia,2019,69.9
+Myanmar,2019,67.1
+Nepal,2019,70.8
+New Caledonia,2019,77.6
+North Korea,2019,72.3
+Pakistan,2019,67.3
+Papua New Guinea,2019,64.5
+Philippines,2019,71.2
+Samoa,2019,73.3
+Singapore,2019,83.5
+Solomon Islands,2019,73.0
+South Korea,2019,83.2
+Sri Lanka,2019,77.0
+Taiwan,2019,81.0
+Tajikistan,2019,71.1
+Thailand,2019,77.2
+Tonga,2019,70.9
+Turkmenistan,2019,68.2
+Uzbekistan,2019,71.7
+Vanuatu,2019,70.5
+Vietnam,2019,75.4
+Australasia,2019,82.7
+Australia,2019,82.9
+New Zealand,2019,81.7
+Eastern Europe,2019,74.6
+Albania,2019,79.1
+Belarus,2019,74.2
+Bosnia and Herzegovina,2019,77.4
+Bulgaria,2019,75.1
+Croatia,2019,78.6
+Czech Republic,2019,79.3
+Estonia,2019,79.0
+Georgia,2019,73.8
+Hungary,2019,76.5
+Kosovo,2019,72.2
+Latvia,2019,75.7
+Lithuania,2019,76.5
+Moldova,2019,70.7
+Montenegro,2019,76.7
+North Macedonia,2019,76.6
+Poland,2019,78.0
+Romania,2019,75.6
+Russia,2019,73.3
+Serbia,2019,76.0
+Slovakia,2019,77.8
+Slovenia,2019,81.6
+Ukraine,2019,72.1
+Latin America,2019,75.6
+Antigua and Barbuda,2019,77.0
+Argentina,2019,76.7
+Aruba,2019,76.3
+Bahamas,2019,73.9
+Barbados,2019,79.2
+Belize,2019,74.6
+Bolivia,2019,71.5
+Brazil,2019,75.9
+Chile,2019,80.2
+Colombia,2019,77.3
+Costa Rica,2019,80.3
+Cuba,2019,78.8
+Curacao,2019,78.9
+Dominican Republic,2019,74.1
+Ecuador,2019,77.0
+El Salvador,2019,73.3
+French Guiana,2019,80.0
+Grenada,2019,72.4
+Guadeloupe,2019,82.1
+Guatemala,2019,74.3
+Guyana,2019,69.9
+Haiti,2019,64.0
+Honduras,2019,75.3
+Jamaica,2019,74.5
+Martinique,2019,82.5
+Mexico,2019,75.1
+Nicaragua,2019,74.5
+Panama,2019,78.5
+Paraguay,2019,74.3
+Peru,2019,76.7
+Puerto Rico,2019,80.1
+St Lucia,2019,76.2
+St Vincent and the Grenadines,2019,72.5
+Suriname,2019,71.7
+Trinidad and Tobago,2019,73.5
+Uruguay,2019,77.9
+US Virgin Islands,2019,80.6
+Venezuela,2019,72.1
+Middle East and Africa,2019,65.3
+Algeria,2019,76.9
+Angola,2019,61.1
+Bahrain,2019,77.3
+Benin,2019,61.8
+Botswana,2019,69.6
+Burkina Faso,2019,61.6
+Burundi,2019,61.6
+Cabo Verde,2019,73.0
+Cameroon,2019,59.3
+Central African Republic,2019,53.3
+Chad,2019,54.2
+Comoros,2019,64.3
+"Congo, Democratic Republic",2019,60.7
+Congo-Brazzaville,2019,64.6
+Côte d'Ivoire,2019,57.8
+Djibouti,2019,67.1
+Egypt,2019,72.0
+Equatorial Guinea,2019,58.7
+Eritrea,2019,66.3
+Eswatini,2019,60.2
+Ethiopia,2019,66.6
+Gabon,2019,66.5
+Gambia,2019,62.1
+Ghana,2019,64.1
+Guinea,2019,61.6
+Guinea-Bissau,2019,58.3
+Iran,2019,76.7
+Iraq,2019,70.6
+Israel,2019,82.8
+Jordan,2019,74.5
+Kenya,2019,66.7
+Kuwait,2019,75.5
+Lebanon,2019,78.9
+Lesotho,2019,54.3
+Liberia,2019,64.1
+Libya,2019,72.9
+Madagascar,2019,67.0
+Malawi,2019,64.3
+Mali,2019,59.3
+Mauritania,2019,64.9
+Mauritius,2019,75.0
+Morocco,2019,76.7
+Mozambique,2019,60.9
+Namibia,2019,63.7
+Niger,2019,62.4
+Nigeria,2019,54.7
+Oman,2019,77.9
+Qatar,2019,80.2
+Réunion,2019,80.5
+Rwanda,2019,69.0
+Sao Tomé e Príncipe,2019,70.4
+Saudi Arabia,2019,75.1
+Senegal,2019,67.9
+Seychelles,2019,73.4
+Sierra Leone,2019,54.7
+Somalia,2019,57.4
+South Africa,2019,64.1
+South Sudan,2019,57.8
+Sudan,2019,65.3
+Syria,2019,72.7
+Tanzania,2019,65.5
+Togo,2019,61.0
+Tunisia,2019,76.7
+Uganda,2019,63.4
+United Arab Emirates,2019,78.0
+Yemen,2019,66.1
+Zambia,2019,63.9
+Zimbabwe,2019,61.5
+North America,2019,79.1
+Canada,2019,82.0
+USA,2019,78.8
+Western Europe,2019,81.9
+Austria,2019,82.0
+Belgium,2019,82.1
+Cyprus,2019,82.3
+Denmark,2019,81.5
+Finland,2019,82.1
+France,2019,83.0
+Germany,2019,81.3
+Greece,2019,81.7
+Iceland,2019,83.2
+Ireland,2019,82.8
+Italy,2019,83.6
+Liechtenstein,2019,84.3
+Luxembourg,2019,82.7
+Malta,2019,82.9
+Netherlands,2019,82.2
+Norway,2019,83.0
+Portugal,2019,81.9
+Spain,2019,84.0
+Sweden,2019,83.2
+Switzerland,2019,84.0
+Turkey,2019,79.1
+United Kingdom,2019,81.4
+Asia Pacific,2020,73.2
+Afghanistan,2020,65.2
+Armenia,2020,76.6
+Azerbaijan,2020,76.3
+Bangladesh,2020,72.9
+Bhutan,2020,72.1
+Brunei Darussalam,2020,76.0
+Cambodia,2020,70.1
+China,2020,76.7
+Fiji,2020,67.6
+French Polynesia,2020,77.8
+Guam,2020,80.3
+"Hong Kong, China",2020,84.9
+India,2020,69.4
+Indonesia,2020,71.9
+Japan,2020,84.5
+Kazakhstan,2020,73.0
+Kiribati,2020,68.6
+Kyrgyzstan,2020,71.7
+Laos,2020,68.2
+"Macau, China",2020,84.4
+Malaysia,2020,76.3
+Maldives,2020,79.2
+Mongolia,2020,70.1
+Myanmar,2020,67.4
+Nepal,2020,71.1
+New Caledonia,2020,77.7
+North Korea,2020,72.5
+Pakistan,2020,67.4
+Papua New Guinea,2020,64.7
+Philippines,2020,71.4
+Samoa,2020,73.5
+Singapore,2020,83.4
+Solomon Islands,2020,73.1
+South Korea,2020,83.1
+Sri Lanka,2020,77.1
+Taiwan,2020,81.1
+Tajikistan,2020,71.3
+Thailand,2020,77.3
+Tonga,2020,71.0
+Turkmenistan,2020,68.3
+Uzbekistan,2020,71.8
+Vanuatu,2020,70.6
+Vietnam,2020,75.5
+Australasia,2020,82.9
+Australia,2020,83.0
+New Zealand,2020,81.9
+Eastern Europe,2020,74.1
+Albania,2020,79.2
+Belarus,2020,74.1
+Bosnia and Herzegovina,2020,77.3
+Bulgaria,2020,73.6
+Croatia,2020,77.8
+Czech Republic,2020,78.3
+Estonia,2020,78.6
+Georgia,2020,73.6
+Hungary,2020,75.7
+Kosovo,2020,72.4
+Latvia,2020,75.7
+Lithuania,2020,75.1
+Moldova,2020,70.8
+Montenegro,2020,76.8
+North Macedonia,2020,76.5
+Poland,2020,76.6
+Romania,2020,74.2
+Russia,2020,73.2
+Serbia,2020,75.9
+Slovakia,2020,76.9
+Slovenia,2020,80.6
+Ukraine,2020,71.9
+Latin America,2020,75.5
+Antigua and Barbuda,2020,77.1
+Argentina,2020,76.5
+Aruba,2020,76.4
+Bahamas,2020,74.1
+Barbados,2020,79.3
+Belize,2020,74.8
+Bolivia,2020,71.3
+Brazil,2020,75.7
+Chile,2020,80.0
+Colombia,2020,77.1
+Costa Rica,2020,80.1
+Cuba,2020,78.9
+Curacao,2020,79.0
+Dominican Republic,2020,74.3
+Ecuador,2020,76.8
+El Salvador,2020,73.5
+French Guiana,2020,80.1
+Grenada,2020,72.4
+Guadeloupe,2020,82.3
+Guatemala,2020,74.1
+Guyana,2020,70.0
+Haiti,2020,64.3
+Honduras,2020,75.4
+Jamaica,2020,74.6
+Martinique,2020,82.7
+Mexico,2020,75.0
+Nicaragua,2020,74.7
+Panama,2020,78.7
+Paraguay,2020,74.4
+Peru,2020,76.5
+Puerto Rico,2020,80.3
+St Lucia,2020,76.3
+St Vincent and the Grenadines,2020,72.7
+Suriname,2020,71.8
+Trinidad and Tobago,2020,73.6
+Uruguay,2020,77.8
+US Virgin Islands,2020,80.7
+Venezuela,2020,72.1
+Middle East and Africa,2020,65.5
+Algeria,2020,77.1
+Angola,2020,61.5
+Bahrain,2020,77.2
+Benin,2020,62.1
+Botswana,2020,69.8
+Burkina Faso,2020,62.0
+Burundi,2020,61.9
+Cabo Verde,2020,73.2
+Cameroon,2020,59.6
+Central African Republic,2020,53.7
+Chad,2020,54.5
+Comoros,2020,64.5
+"Congo, Democratic Republic",2020,61.0
+Congo-Brazzaville,2020,64.8
+Côte d'Ivoire,2020,58.1
+Djibouti,2020,67.5
+Egypt,2020,71.8
+Equatorial Guinea,2020,59.1
+Eritrea,2020,66.7
+Eswatini,2020,60.7
+Ethiopia,2020,67.0
+Gabon,2020,66.7
+Gambia,2020,62.4
+Ghana,2020,64.3
+Guinea,2020,62.0
+Guinea-Bissau,2020,58.6
+Iran,2020,76.9
+Iraq,2020,70.7
+Israel,2020,82.7
+Jordan,2020,74.7
+Kenya,2020,67.0
+Kuwait,2020,75.4
+Lebanon,2020,79.0
+Lesotho,2020,54.8
+Liberia,2020,64.4
+Libya,2020,73.1
+Madagascar,2020,67.4
+Malawi,2020,64.7
+Mali,2020,59.7
+Mauritania,2020,65.1
+Mauritius,2020,75.1
+Morocco,2020,76.9
+Mozambique,2020,61.4
+Namibia,2020,64.0
+Niger,2020,62.8
+Nigeria,2020,55.0
+Oman,2020,77.6
+Qatar,2020,80.1
+Réunion,2020,80.8
+Rwanda,2020,69.3
+Sao Tomé e Príncipe,2020,70.6
+Saudi Arabia,2020,75.3
+Senegal,2020,68.2
+Seychelles,2020,73.5
+Sierra Leone,2020,55.1
+Somalia,2020,57.7
+South Africa,2020,63.9
+South Sudan,2020,58.1
+Sudan,2020,65.5
+Syria,2020,73.7
+Tanzania,2020,65.8
+Togo,2020,61.3
+Tunisia,2020,76.5
+Uganda,2020,63.7
+United Arab Emirates,2020,77.8
+Yemen,2020,66.2
+Zambia,2020,64.2
+Zimbabwe,2020,61.7
+North America,2020,79.1
+Canada,2020,81.9
+USA,2020,78.7
+Western Europe,2020,81.3
+Austria,2020,81.3
+Belgium,2020,80.9
+Cyprus,2020,82.3
+Denmark,2020,81.4
+Finland,2020,82.0
+France,2020,82.3
+Germany,2020,81.1
+Greece,2020,81.2
+Iceland,2020,83.1
+Ireland,2020,82.6
+Italy,2020,82.4
+Liechtenstein,2020,81.9
+Luxembourg,2020,81.8
+Malta,2020,82.6
+Netherlands,2020,81.5
+Norway,2020,83.3
+Portugal,2020,81.1
+Spain,2020,82.4
+Sweden,2020,82.4
+Switzerland,2020,83.2
+Turkey,2020,78.9
+United Kingdom,2020,81.3
+Asia Pacific,2021,73.1
+Afghanistan,2021,65.5
+Armenia,2021,76.8
+Azerbaijan,2021,76.4
+Bangladesh,2021,73.1
+Bhutan,2021,72.4
+Brunei Darussalam,2021,76.1
+Cambodia,2021,70.3
+China,2021,76.6
+Fiji,2021,67.7
+French Polynesia,2021,78.0
+Guam,2021,80.5
+"Hong Kong, China",2021,84.8
+India,2021,69.2
+Indonesia,2021,72.1
+Japan,2021,84.4
+Kazakhstan,2021,72.8
+Kiribati,2021,68.8
+Kyrgyzstan,2021,71.9
+Laos,2021,68.5
+"Macau, China",2021,84.5
+Malaysia,2021,76.2
+Maldives,2021,79.5
+Mongolia,2021,70.2
+Myanmar,2021,67.6
+Nepal,2021,71.3
+New Caledonia,2021,77.9
+North Korea,2021,72.6
+Pakistan,2021,67.6
+Papua New Guinea,2021,64.9
+Philippines,2021,71.5
+Samoa,2021,73.6
+Singapore,2021,83.2
+Solomon Islands,2021,73.2
+South Korea,2021,82.9
+Sri Lanka,2021,77.3
+Taiwan,2021,81.0
+Tajikistan,2021,71.5
+Thailand,2021,77.5
+Tonga,2021,71.1
+Turkmenistan,2021,68.4
+Uzbekistan,2021,71.9
+Vanuatu,2021,70.8
+Vietnam,2021,75.6
+Australasia,2021,83.0
+Australia,2021,83.2
+New Zealand,2021,82.0
+Eastern Europe,2021,74.2
+Albania,2021,79.3
+Belarus,2021,74.2
+Bosnia and Herzegovina,2021,77.4
+Bulgaria,2021,73.5
+Croatia,2021,78.0
+Czech Republic,2021,78.2
+Estonia,2021,78.5
+Georgia,2021,73.8
+Hungary,2021,75.6
+Kosovo,2021,72.5
+Latvia,2021,75.6
+Lithuania,2021,75.0
+Moldova,2021,70.9
+Montenegro,2021,77.0
+North Macedonia,2021,76.6
+Poland,2021,76.4
+Romania,2021,74.3
+Russia,2021,73.3
+Serbia,2021,75.7
+Slovakia,2021,76.8
+Slovenia,2021,80.8
+Ukraine,2021,71.8
+Latin America,2021,75.5
+Antigua and Barbuda,2021,77.3
+Argentina,2021,76.7
+Aruba,2021,76.6
+Bahamas,2021,74.2
+Barbados,2021,79.4
+Belize,2021,74.9
+Bolivia,2021,71.5
+Brazil,2021,75.5
+Chile,2021,80.2
+Colombia,2021,77.3
+Costa Rica,2021,79.9
+Cuba,2021,79.0
+Curacao,2021,79.2
+Dominican Republic,2021,74.4
+Ecuador,2021,77.0
+El Salvador,2021,73.7
+French Guiana,2021,80.3
+Grenada,2021,72.5
+Guadeloupe,2021,82.5
+Guatemala,2021,74.3
+Guyana,2021,70.1
+Haiti,2021,64.6
+Honduras,2021,75.6
+Jamaica,2021,74.7
+Martinique,2021,82.9
+Mexico,2021,75.1
+Nicaragua,2021,74.9
+Panama,2021,78.9
+Paraguay,2021,74.5
+Peru,2021,76.7
+Puerto Rico,2021,80.4
+St Lucia,2021,76.5
+St Vincent and the Grenadines,2021,72.8
+Suriname,2021,71.9
+Trinidad and Tobago,2021,73.7
+Uruguay,2021,77.6
+US Virgin Islands,2021,80.9
+Venezuela,2021,72.1
+Middle East and Africa,2021,65.7
+Algeria,2021,77.2
+Angola,2021,61.8
+Bahrain,2021,77.0
+Benin,2021,62.4
+Botswana,2021,69.9
+Burkina Faso,2021,62.4
+Burundi,2021,62.2
+Cabo Verde,2021,73.3
+Cameroon,2021,59.9
+Central African Republic,2021,54.0
+Chad,2021,54.8
+Comoros,2021,64.7
+"Congo, Democratic Republic",2021,61.2
+Congo-Brazzaville,2021,65.0
+Côte d'Ivoire,2021,58.4
+Djibouti,2021,67.7
+Egypt,2021,72.0
+Equatorial Guinea,2021,59.4
+Eritrea,2021,67.0
+Eswatini,2021,61.0
+Ethiopia,2021,67.3
+Gabon,2021,66.9
+Gambia,2021,62.7
+Ghana,2021,64.6
+Guinea,2021,62.3
+Guinea-Bissau,2021,58.9
+Iran,2021,77.1
+Iraq,2021,70.9
+Israel,2021,82.8
+Jordan,2021,74.8
+Kenya,2021,67.2
+Kuwait,2021,75.3
+Lebanon,2021,79.1
+Lesotho,2021,55.2
+Liberia,2021,64.7
+Libya,2021,73.2
+Madagascar,2021,67.7
+Malawi,2021,65.1
+Mali,2021,60.1
+Mauritania,2021,65.3
+Mauritius,2021,75.3
+Morocco,2021,77.1
+Mozambique,2021,61.8
+Namibia,2021,64.4
+Niger,2021,63.1
+Nigeria,2021,55.3
+Oman,2021,77.4
+Qatar,2021,79.9
+Réunion,2021,81.1
+Rwanda,2021,69.6
+Sao Tomé e Príncipe,2021,70.8
+Saudi Arabia,2021,75.4
+Senegal,2021,68.5
+Seychelles,2021,73.6
+Sierra Leone,2021,55.4
+Somalia,2021,58.0
+South Africa,2021,64.1
+South Sudan,2021,58.4
+Sudan,2021,65.8
+Syria,2021,74.6
+Tanzania,2021,66.1
+Togo,2021,61.7
+Tunisia,2021,76.7
+Uganda,2021,64.0
+United Arab Emirates,2021,77.7
+Yemen,2021,66.3
+Zambia,2021,64.5
+Zimbabwe,2021,62.0
+North America,2021,79.1
+Canada,2021,82.1
+USA,2021,78.8
+Western Europe,2021,81.4
+Austria,2021,81.4
+Belgium,2021,81.1
+Cyprus,2021,82.5
+Denmark,2021,81.3
+Finland,2021,81.8
+France,2021,82.4
+Germany,2021,81.3
+Greece,2021,81.0
+Iceland,2021,83.3
+Ireland,2021,82.5
+Italy,2021,82.5
+Liechtenstein,2021,82.0
+Luxembourg,2021,82.0
+Malta,2021,82.8
+Netherlands,2021,81.6
+Norway,2021,83.5
+Portugal,2021,80.9
+Spain,2021,82.5
+Sweden,2021,82.6
+Switzerland,2021,83.3
+Turkey,2021,78.6
+United Kingdom,2021,81.4
